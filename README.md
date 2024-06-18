@@ -8,4 +8,4 @@ PC端	小程序	手机APP
 ## 项目预览图
 ![](README/1.jpg)
 
-![](README/2.jpg)
+![](README_files/1.jpg)
