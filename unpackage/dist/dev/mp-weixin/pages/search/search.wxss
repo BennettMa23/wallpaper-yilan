@@ -1,0 +1,57 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.searchLayout .search.data-v-4cedc0c6 {
+  padding: 0 10rpx;
+}
+.searchLayout .topTitle.data-v-4cedc0c6 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 32rpx;
+  color: #999;
+}
+.searchLayout .history.data-v-4cedc0c6 {
+  padding: 30rpx;
+}
+.searchLayout .recommend.data-v-4cedc0c6 {
+  padding: 30rpx;
+}
+.searchLayout .tabs.data-v-4cedc0c6 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 20rpx;
+}
+.searchLayout .tabs .tab.data-v-4cedc0c6 {
+  background: #F4F4F4;
+  font-size: 28rpx;
+  color: #333;
+  padding: 10rpx 28rpx;
+  border-radius: 50rpx;
+  margin-right: 20rpx;
+  margin-top: 20rpx;
+}
+.searchLayout .list.data-v-4cedc0c6 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5rpx;
+  padding: 20rpx 5rpx;
+}
+.searchLayout .list .item.data-v-4cedc0c6 {
+  height: 440rpx;
+}
+.searchLayout .list .item image.data-v-4cedc0c6 {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
